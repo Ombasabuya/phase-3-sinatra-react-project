@@ -13,3 +13,6 @@ use Rack::JSONBodyParser
 
 # Our application
 run ApplicationController
+
+
+## it tells what is accessible through our endpoint
